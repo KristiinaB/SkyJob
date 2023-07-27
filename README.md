@@ -34,5 +34,5 @@
 
 Вот как я решила оба проекта:   
 
-[Ссылка на тест-план](https://qabug-report402.atlassian.net/wiki/spaces/~63a7594548b367d78a15f85c/pages/3637276)  
+[Ссылка на тест-план]
 [Ссылка на отчет](https://qabug-report402.atlassian.net/wiki/spaces/~63a7594548b367d78a15f85c/pages/3637313)   
