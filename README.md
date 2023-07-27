@@ -34,5 +34,5 @@
 
 Вот как я решила оба проекта:   
 
-[Ссылка на тест-план]
+[Ссылка на тест-план](https://github.com/KristiinaB/SkyJob/blob/main/New%20folder%20/%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD.md?plain=1)  
 [Ссылка на отчет](https://qabug-report402.atlassian.net/wiki/spaces/~63a7594548b367d78a15f85c/pages/3637313)   
