@@ -8,14 +8,7 @@
 
 ## Навыки и технологии
 
-- Jira
-- qase.io
-- SQL
-- Postman
-- Trello
-- SoapUI
-- Git
-- Chrome DevTools
+`Jira` `qase.io` `SQL` `Postman` `Trello` `SoapUI` `Git` `Chrome DevTools` `Jmeter`
 
 ## Проекты  
 Проект 1:  UI тестирование веб-приложения для учителей от Skyeng  
@@ -35,4 +28,8 @@
 Вот как я решила оба проекта:   
 
 [Ссылка на тест-план](https://github.com/KristiinaB/SkyJob/blob/main/New%20folder%20/%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD.md?plain=1)  
-[Ссылка на отчет](https://qabug-report402.atlassian.net/wiki/spaces/~63a7594548b367d78a15f85c/pages/3637313)   
+[Ссылка на отчет](https://github.com/KristiinaB/SkyJob/blob/9d45c0506da43b1a2b391eaef0da639b5c157c3d/New%20folder%20/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.md?plain=1)   
+
+
+## Контактная информация  
+Email: kristiina.bagaeva@gmail.com  
